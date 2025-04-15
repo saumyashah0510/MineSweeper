@@ -213,7 +213,7 @@ style: |
 <br>
 
 **Q6. Can I restart or reset the game?**  
-**A6.** 🔄 **Yes!** We have added a custom **Restart function** to the game. Now, you can easily restart the game without needing to relaunch the program. This feature reinitializes the board and resets all game states, allowing you to start a fresh game immediately. Just choose the restart option from the menu!
+**A6.** 🔄 Currently, there's no built-in restart option. But you can reset the game by reinitializing the board and resetting all game states. 
 
 ---
 
