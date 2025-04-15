@@ -1,33 +1,5 @@
 ---
 
-marp: true
-theme: default
-paginate: true
-backgroundColor: '#fef3c7'
-color: '#1e3a8a'
-style: |
-  .code-container {
-    border: 3px solid #1e3a8a;
-    padding: 1rem;
-    border-radius: 16px;
-    background-color: #fff;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 1.5rem;
-  }
-
-  .code-block {
-    width: 55%;
-  }
-
-  .code-img {
-    width: 40%;
-    border-radius: 12px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-  }
-
----
 
 <!-- Slide 1: Introduction -->
 
