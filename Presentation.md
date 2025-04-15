@@ -3,7 +3,6 @@
 
 <!-- Slide 1: Introduction -->
 
-<style>
 h1, h2, h3 {
   text-align: center;
   font-weight: bold;
