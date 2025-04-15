@@ -1,4 +1,21 @@
 ---
+marp: true
+theme: default
+paginate: true
+backgroundColor: '#fef3c7'
+color: '#1e3a8a'
+style: |
+  h1, h2, h3 {
+    text-align: center;
+    font-weight: bold;
+  }
+
+  section {
+    border: 4px solid #1e3a8a;
+    padding: 50px;
+    border-radius: 20px;
+  }
+---
 
 
 <!-- Slide 1: Introduction -->
