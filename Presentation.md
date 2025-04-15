@@ -39,6 +39,12 @@ style: |
 
 ---
 
+<p align="center">
+    <img align="center" src="assets/demo.gif"></img>
+</p>
+
+---
+
 ## 🎯 Objectives
 - Understand the implementation of a classic game using C++
 - Explore the use of terminal graphics with ANSI codes
